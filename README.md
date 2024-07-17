@@ -63,3 +63,4 @@ Create your own style with our new 3D Jersey Customization App. Pick colors, add
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
+</div>
