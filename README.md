@@ -61,6 +61,5 @@ Create your own style with our new 3D Jersey Customization App. Pick colors, add
 
 👉 **Framer Motion Animation**: Implement framer motion animations for smooth transitions between different 3D models.
 
-## <a name="quick-start">🤸 Quick Start</a>
 
 </div>
